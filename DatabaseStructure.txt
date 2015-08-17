@@ -6,7 +6,6 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 -- --------------------------------------------------------
 
 -- Table structure for table `refferals`
---
 
 CREATE TABLE IF NOT EXISTS `refferals` (
   `ID` int(6) NOT NULL AUTO_INCREMENT,
